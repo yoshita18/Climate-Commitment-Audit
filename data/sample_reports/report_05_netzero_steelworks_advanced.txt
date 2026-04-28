@@ -1,0 +1,91 @@
+Advanced SteelWorks International — Net-Zero Transition Plan 2024
+Sector: Industry (Steel) | Fiscal Year: 2024
+
+EXECUTIVE OVERVIEW
+Advanced SteelWorks International (ASI) produces 12 million tonnes of steel annually across 8 facilities in 5 countries. Steel production currently accounts for approximately 7-9% of global CO2 emissions. We recognize we are a hard-to-abate sector and have developed the most rigorous, science-based decarbonization roadmap possible.
+
+Our validated SBTi commitments:
+- Scope 1+2: 42% absolute reduction by 2030 (2019 baseline: 28.4 MtCO2e)
+- Scope 3: 25% absolute reduction by 2030 (2019 baseline: 4.1 MtCO2e)
+- Net-zero across all scopes by 2050
+
+CURRENT EMISSIONS PROFILE
+Total 2023 Emissions:
+- Scope 1 (direct, primarily blast furnace): 24.8 MtCO2e
+- Scope 2 (purchased electricity, market-based): 2.1 MtCO2e
+- Scope 3 Cat 1 (iron ore, coal, purchased goods): 3.6 MtCO2e
+- Scope 3 Cat 11 (processing of sold products): 0.6 MtCO2e
+Total: 31.1 MtCO2e
+
+Progress vs 2019 baseline:
+- Scope 1+2 absolute reduction: 8.7% (on track for 2025 milestone of 15%)
+- Carbon intensity: 2.59 tCO2e/tonne steel (vs 2.81 in 2019, -8%)
+
+PRIMARY DECARBONIZATION LEVERS
+
+1. HYDROGEN-BASED DIRECT REDUCTION (H-DRI)
+This is our core long-term pathway. We have:
+- Completed a full-scale H-DRI pilot at our Linz facility (capacity: 100,000 t/year)
+- Signed an offtake agreement for 80,000 tonnes/year of green hydrogen by 2027
+- Committed €1.2B to convert our Linz and Hamburg blast furnaces to H-DRI by 2030
+- Projected H-DRI capacity by 2030: 3.5 million tonnes/year (29% of total production)
+
+H-DRI pathway requires green hydrogen at scale and below €3/kg. We are co-funding an electrolyzer project targeting 1 GW capacity by 2028.
+
+2. ELECTRIC ARC FURNACE (EAF) EXPANSION
+EAF with scrap steel produces approximately 0.4 tCO2e/tonne vs 2.1 tCO2e/tonne for blast furnace.
+- 2023: 22% of production via EAF (industry average: ~30%)
+- 2030 target: 45% of production via EAF
+- 2040 target: 65% of production via EAF
+- Requires scrap availability and renewable electricity access
+
+3. CARBON CAPTURE, UTILIZATION AND STORAGE (CCUS)
+For remaining blast furnace operations through 2035, we are deploying:
+- Top gas recycling blast furnace (TGR-BF) at Rotterdam facility (pilot 2025)
+- CCUS retrofit at Rotterdam facility by 2030 (capture capacity: 2.5 MtCO2e/year)
+
+CCUS is a bridging technology only; we do not assume CCUS beyond 2040 in our base case.
+
+4. RENEWABLE ELECTRICITY
+- 2023: 31% renewable electricity (from PPAs and own wind)
+- 2030 target: 75% renewable electricity
+- Signed 15-year PPAs totaling 2.8 TWh/year, operational by 2026
+
+CAPITAL INVESTMENT PLAN
+Total committed CapEx for decarbonization: €4.8B through 2035
+- H-DRI conversion: €2.1B
+- EAF expansion: €1.3B
+- CCUS at Rotterdam: €0.8B
+- Renewable energy: €0.6B
+
+Our internal carbon price: €110/tCO2e (above EU ETS at €65/tCO2e in 2024)
+
+RESIDUAL EMISSIONS AND CDR
+By 2050, we project residual emissions of approximately 1.2 MtCO2e/year from processes that cannot be fully abated with current technology. We will address these through:
+- High-quality direct air capture contracts (committed 500,000 tCO2e/year from 2045)
+- Nature-based solutions with permanence guarantees: 700,000 tCO2e/year
+
+Offsets represent less than 4% of our current emissions and will remain below 10% of residual emissions in 2050.
+
+JUST TRANSITION
+Decarbonization will affect approximately 8,400 workers in fossil fuel-dependent roles. We have:
+- Committed €180M to a Just Transition Fund for retraining and regional economic development
+- Partnered with 6 universities for steel technology education programs
+- Engaged works councils in all facilities as full partners in the transition plan
+
+INDUSTRY ENGAGEMENT
+We are a founding member of ResponsibleSteel, Mission Possible Partnership (steel), and Hydrogen Europe. We are sharing our H-DRI technology roadmap under open-source licensing to accelerate sector decarbonization.
+
+PERFORMANCE GOVERNANCE
+- Net-zero targets overseen by Board; quarterly emissions reporting to ExCo
+- CEO and CFO variable pay tied 20% to emissions reduction milestones
+- Annual independent verification by DNV (limited assurance, Scopes 1+2; reasonable assurance for key metrics)
+- Reporting per GHG Protocol, TCFD, and EU Taxonomy alignment assessment
+
+RISKS AND SCENARIO ANALYSIS
+We model three scenarios:
+- 1.5°C Orderly (Net Zero by 2050): Full deployment of H-DRI by 2035, green H2 at €2/kg
+- 2°C Delayed (Current Policies + late action): Slower H-DRI adoption, higher carbon cost exposure
+- Physical Risk (3°C): Significant water stress at 3 of our facilities by 2040
+
+Our strategy is optimized for the 1.5°C scenario. We are transparent that the 2°C delayed scenario would require significant additional investment and may result in stranded assets.

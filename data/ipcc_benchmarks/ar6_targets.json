@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "source": "IPCC Sixth Assessment Report (AR6), 2021-2022",
+    "working_groups": ["WG1", "WG2", "WG3"],
+    "baseline_year": 2019,
+    "reference": "https://www.ipcc.ch/assessment-report/ar6/"
+  },
+  "global_targets": {
+    "1.5C_pathway": {
+      "description": "Limiting global warming to 1.5°C above pre-industrial levels",
+      "co2_reduction_by_2030": {
+        "value": -43,
+        "unit": "percent vs 2019",
+        "range": [-48, -43],
+        "confidence": "high"
+      },
+      "net_zero_year": {
+        "value": 2050,
+        "range": [2048, 2052],
+        "confidence": "high"
+      },
+      "methane_reduction_by_2030": {
+        "value": -34,
+        "unit": "percent vs 2019",
+        "range": [-34, -35],
+        "confidence": "medium"
+      },
+      "carbon_removal_2050": {
+        "value": 6,
+        "unit": "GtCO2/year",
+        "range": [2, 10],
+        "confidence": "medium"
+      }
+    },
+    "2C_pathway": {
+      "description": "Limiting global warming to 2°C above pre-industrial levels",
+      "co2_reduction_by_2030": {
+        "value": -27,
+        "unit": "percent vs 2019",
+        "range": [-27, -32],
+        "confidence": "high"
+      },
+      "net_zero_year": {
+        "value": 2070,
+        "range": [2065, 2075],
+        "confidence": "high"
+      },
+      "methane_reduction_by_2030": {
+        "value": -24,
+        "unit": "percent vs 2019",
+        "range": [-24, -25],
+        "confidence": "medium"
+      }
+    }
+  },
+  "sectoral_targets": {
+    "energy": {
+      "description": "Power generation and heat production sector",
+      "1.5C": {
+        "low_carbon_share_2050": {
+          "value": 95,
+          "unit": "percent of total electricity",
+          "range": [90, 99],
+          "confidence": "high"
+        },
+        "coal_phaseout_year": {
+          "value": 2040,
+          "range": [2035, 2045],
+          "confidence": "medium"
+        },
+        "renewable_share_2030": {
+          "value": 60,
+          "unit": "percent of electricity",
+          "range": [50, 70],
+          "confidence": "medium"
+        }
+      },
+      "2C": {
+        "low_carbon_share_2050": {
+          "value": 80,
+          "unit": "percent of total electricity",
+          "range": [75, 90],
+          "confidence": "medium"
+        }
+      }
+    },
+    "transport": {
+      "description": "Road, aviation, shipping, rail transport",
+      "1.5C": {
+        "emission_reduction_2050": {
+          "value": -68,
+          "unit": "percent vs 2019",
+          "range": [-50, -90],
+          "confidence": "medium"
+        },
+        "ev_share_new_sales_2035": {
+          "value": 90,
+          "unit": "percent of new passenger vehicles",
+          "range": [75, 100],
+          "confidence": "medium"
+        }
+      }
+    },
+    "buildings": {
+      "description": "Residential and commercial buildings",
+      "1.5C": {
+        "emission_reduction_2050": {
+          "value": -61,
+          "unit": "percent vs 2019",
+          "range": [-50, -80],
+          "confidence": "medium"
+        },
+        "net_zero_buildings_2050": {
+          "value": 100,
+          "unit": "percent of new buildings",
+          "confidence": "medium"
+        }
+      }
+    },
+    "industry": {
+      "description": "Manufacturing, steel, cement, chemicals",
+      "1.5C": {
+        "emission_reduction_2050": {
+          "value": -67,
+          "unit": "percent vs 2019",
+          "range": [-63, -90],
+          "confidence": "medium"
+        },
+        "green_hydrogen_share_2050": {
+          "value": 15,
+          "unit": "percent of industrial energy",
+          "range": [10, 25],
+          "confidence": "low"
+        }
+      }
+    },
+    "afolu": {
+      "description": "Agriculture, Forestry, and Other Land Use",
+      "1.5C": {
+        "emission_reduction_2050": {
+          "value": -30,
+          "unit": "percent vs 2019",
+          "range": [-20, -50],
+          "confidence": "low"
+        },
+        "deforestation_net_zero_year": {
+          "value": 2030,
+          "confidence": "medium"
+        }
+      }
+    }
+  },
+  "carbon_budgets": {
+    "1.5C_67_percent_probability": {
+      "remaining_from_2020": {
+        "value": 400,
+        "unit": "GtCO2",
+        "note": "Starting from 2020, ~40 GtCO2/year current rate implies ~10 years"
+      }
+    },
+    "1.5C_50_percent_probability": {
+      "remaining_from_2020": {
+        "value": 500,
+        "unit": "GtCO2"
+      }
+    },
+    "2C_67_percent_probability": {
+      "remaining_from_2020": {
+        "value": 1150,
+        "unit": "GtCO2"
+      }
+    }
+  },
+  "greenwashing_red_flags": {
+    "offset_heavy": {
+      "description": "More than 50% of reduction from offsets rather than direct cuts",
+      "risk_level": "high"
+    },
+    "distant_targets_only": {
+      "description": "No interim 2030 targets, only 2050 commitments",
+      "risk_level": "high"
+    },
+    "scope3_exclusion": {
+      "description": "Targets exclude Scope 3 (value chain) emissions",
+      "risk_level": "high"
+    },
+    "vague_language": {
+      "description": "No specific percentage targets or absolute emission numbers",
+      "risk_level": "medium"
+    },
+    "cherry_picked_baseline": {
+      "description": "Using a peak-year or atypical baseline to inflate progress",
+      "risk_level": "medium"
+    },
+    "unproven_technology": {
+      "description": "Targets depend primarily on unproven CCS or DAC at scale",
+      "risk_level": "medium"
+    },
+    "carbon_neutral_ambiguity": {
+      "description": "Using 'carbon neutral' without clarity on scope and methodology",
+      "risk_level": "medium"
+    }
+  },
+  "policy_frameworks": {
+    "paris_agreement": {
+      "temperature_goal": "Well below 2°C, pursue 1.5°C",
+      "ndc_update_cycle": "Every 5 years, each more ambitious",
+      "net_zero_implicit_year": 2050
+    },
+    "science_based_targets": {
+      "sbti_criteria": [
+        "Cover all material Scope 1, 2, and 3 emissions",
+        "Near-term targets valid for 5-10 years",
+        "Long-term targets by 2050 at latest",
+        "1.5°C aligned for Scope 1+2, well-below 2°C for Scope 3"
+      ]
+    }
+  }
+}

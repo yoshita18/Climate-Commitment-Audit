@@ -1,0 +1,31 @@
+Titan Logistics — Climate Progress Report 2024
+Sector: Transport & Logistics | Region: United Kingdom
+
+OUR CLIMATE TARGETS
+We have set the following targets, pending SBTi validation:
+- Scope 1 and 2: 36% absolute reduction by 2030 vs 2019
+- Scope 3: 31% absolute reduction by 2030 vs 2019
+- Net-zero emissions by 2046
+
+BASELINE (2019)
+Scope 1: 943,170 tCO2e
+Scope 2 (market-based): 273,557 tCO2e
+Scope 3: 1,021,262 tCO2e
+
+PROGRESS TO DATE
+22% Scope 1+2 reduction achieved. On track for 2030 milestones.
+Renewable electricity: 52% of consumption.
+Offsetting: <9% of total reductions from offsets; direct cuts prioritised.
+
+KEY ACTIONS
+- Procured 64% renewable electricity in 2023 (PPAs + RECs)
+- Launched 3 energy efficiency programmes across manufacturing
+- Internal carbon price: $69/tCO2e
+- Supplier engagement programme: 46% of Tier 1 suppliers surveyed
+CDP Score: B | SBTi Status: Committed
+
+GOVERNANCE
+Board-level oversight. Executive bonus 13% linked to sustainability KPIs. CDP: B.
+
+DISCLAIMER
+Targets subject to annual review and aligned with Paris Agreement.

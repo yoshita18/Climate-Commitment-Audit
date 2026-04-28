@@ -1,0 +1,63 @@
+GreenTech Corporation — Climate Commitment Report 2024
+Sector: Technology | Fiscal Year: 2024
+
+EXECUTIVE SUMMARY
+GreenTech Corporation is committed to achieving net-zero greenhouse gas emissions across our entire value chain (Scopes 1, 2, and 3) by 2045. This commitment is independently verified by the Science Based Targets initiative (SBTi) and aligns with the 1.5°C pathway as defined in IPCC AR6.
+
+Our near-term target: reduce absolute Scope 1 and 2 emissions by 50% by 2030 compared to our 2019 baseline. Our Scope 3 target requires a 42% reduction in absolute emissions from our value chain by 2030.
+
+BASELINE AND PROGRESS
+- 2019 Baseline (Scope 1+2): 1,240,000 tCO2e
+- 2023 Actual (Scope 1+2): 820,000 tCO2e
+- Reduction achieved (2019–2023): 33.9%
+- 2019 Baseline (Scope 3): 8,900,000 tCO2e
+- 2023 Actual (Scope 3): 7,200,000 tCO2e
+- Scope 3 reduction (2019–2023): 19.1%
+
+ENERGY TRANSITION
+We have transitioned 78% of our global electricity consumption to renewable sources through a combination of Power Purchase Agreements (PPAs), Renewable Energy Certificates (RECs) backed by additionality criteria, and on-site solar installations. We are committed to 100% renewable electricity procurement by 2026.
+
+We have eliminated coal from our direct operations and data centers as of 2022. Our data centers, which represent 65% of our Scope 2 footprint, have achieved a Power Usage Effectiveness (PUE) of 1.18, compared to an industry average of 1.58.
+
+SUPPLY CHAIN (SCOPE 3)
+Scope 3 emissions represent 87% of our total footprint. Our primary levers:
+1. Supplier Engagement: We require all Tier 1 suppliers (covering 80% of spend) to set SBTi-validated targets by 2026 or demonstrate equivalent ambition.
+2. Product Design: We have reduced the carbon intensity of our flagship hardware product line by 38% per unit since 2019 through material substitution and circular design.
+3. Employee Business Travel: Reduced 61% from 2019 baseline through virtual-first policies.
+4. End-of-Life: 94% of our products are now recyclable by weight.
+
+CARBON REMOVAL STRATEGY
+We limit the use of carbon offsets to only residual emissions that cannot be eliminated. Currently, we use 45,000 tCO2e of high-quality offsets annually (representing <6% of our total emissions), exclusively from nature-based solutions with co-benefits verified by Gold Standard or Verra VCS.
+
+We are investing $50M in direct air capture (DAC) R&D through 2030, recognizing that at-scale CDR is critical for the 2050 net-zero target.
+
+INTERIM MILESTONES
+- 2025: 40% Scope 1+2 reduction vs 2019; 100% renewable electricity
+- 2026: All Tier 1 suppliers with SBTi targets
+- 2028: 45% Scope 1+2 reduction; 30% Scope 3 reduction
+- 2030: 50% Scope 1+2 reduction; 42% Scope 3 reduction (SBTi near-term target)
+- 2040: 80% total emissions reduction; phase out all offset use from operations
+- 2045: Net-zero across Scopes 1, 2, and 3
+
+GOVERNANCE
+Climate targets are overseen by the Board Sustainability Committee, with CEO compensation tied (15%) to climate performance. Annual third-party verification by Bureau Veritas with data reported per GHG Protocol and TCFD framework.
+
+CAPITAL ALLOCATION
+We have committed $2.1B in cumulative climate investment through 2030:
+- $800M for renewable energy infrastructure
+- $600M for energy efficiency in manufacturing
+- $500M for supply chain decarbonization support
+- $200M for carbon removal R&D
+
+Our internal carbon price is set at $85/tCO2e, applied to all capital allocation decisions above $5M.
+
+RISKS AND DEPENDENCIES
+We acknowledge that achieving our 2045 net-zero target depends on:
+- Availability of commercial-scale DAC at costs below $150/tCO2e by 2040
+- Continued policy support for renewable energy in our key markets
+- Supplier cooperation and capability building
+
+We have quantified transition risk at $340M NPV under a 1.5°C scenario and physical risk at $180M NPV under a 2°C scenario.
+
+THIRD-PARTY VERIFICATION
+This report has been independently verified by Bureau Veritas. Our SBTi targets were validated in 2022. We participate in CDP Climate (Score: A) and are a founding signatory of the UN Race to Zero.

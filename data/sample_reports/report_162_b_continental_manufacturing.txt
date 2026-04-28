@@ -1,0 +1,31 @@
+Continental Manufacturing — Climate Progress Report 2023
+Sector: Manufacturing | Region: United Kingdom
+
+OUR CLIMATE TARGETS
+We have set the following targets, pending SBTi validation:
+- Scope 1 and 2: 36% absolute reduction by 2030 vs 2018
+- Scope 3: 25% absolute reduction by 2030 vs 2018
+- Net-zero emissions by 2048
+
+BASELINE (2018)
+Scope 1: 745,270 tCO2e
+Scope 2 (market-based): 249,223 tCO2e
+Scope 3: 2,682,642 tCO2e
+
+PROGRESS TO DATE
+27% Scope 1+2 reduction achieved. On track for 2030 milestones.
+Renewable electricity: 50% of consumption.
+Offsetting: <13% of total reductions from offsets; direct cuts prioritised.
+
+KEY ACTIONS
+- Procured 68% renewable electricity in 2023 (PPAs + RECs)
+- Launched 4 energy efficiency programmes across manufacturing
+- Internal carbon price: $52/tCO2e
+- Supplier engagement programme: 35% of Tier 1 suppliers surveyed
+CDP Score: B | SBTi Status: Committed
+
+GOVERNANCE
+Board-level oversight. Executive bonus 15% linked to sustainability KPIs. CDP: B.
+
+DISCLAIMER
+Targets subject to annual review and aligned with Paris Agreement.

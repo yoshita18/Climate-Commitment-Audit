@@ -1,0 +1,31 @@
+Core Industries — Climate Progress Report 2023
+Sector: Manufacturing | Region: United Kingdom
+
+OUR CLIMATE TARGETS
+We have set the following targets, pending SBTi validation:
+- Scope 1 and 2: 41% absolute reduction by 2030 vs 2018
+- Scope 3: 30% absolute reduction by 2030 vs 2018
+- Net-zero emissions by 2050
+
+BASELINE (2018)
+Scope 1: 273,061 tCO2e
+Scope 2 (market-based): 275,047 tCO2e
+Scope 3: 1,670,619 tCO2e
+
+PROGRESS TO DATE
+23% Scope 1+2 reduction achieved. On track for 2030 milestones.
+Renewable electricity: 62% of consumption.
+Offsetting: <8% of total reductions from offsets; direct cuts prioritised.
+
+KEY ACTIONS
+- Procured 62% renewable electricity in 2023 (PPAs + RECs)
+- Launched 2 energy efficiency programmes across manufacturing
+- Internal carbon price: $45/tCO2e
+- Supplier engagement programme: 50% of Tier 1 suppliers surveyed
+CDP Score: B | SBTi Status: Committed
+
+GOVERNANCE
+Board-level oversight. Executive bonus 14% linked to sustainability KPIs. CDP: B.
+
+DISCLAIMER
+Targets subject to annual review and aligned with Paris Agreement.

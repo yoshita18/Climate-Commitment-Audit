@@ -1,0 +1,31 @@
+Nordic Solutions — Climate Progress Report 2022
+Sector: Technology | Region: European Union
+
+OUR CLIMATE TARGETS
+We have set the following targets, pending SBTi validation:
+- Scope 1 and 2: 43% absolute reduction by 2030 vs 2019
+- Scope 3: 26% absolute reduction by 2030 vs 2019
+- Net-zero emissions by 2048
+
+BASELINE (2019)
+Scope 1: 570,050 tCO2e
+Scope 2 (market-based): 219,812 tCO2e
+Scope 3: 4,905,352 tCO2e
+
+PROGRESS TO DATE
+23% Scope 1+2 reduction achieved. On track for 2030 milestones.
+Renewable electricity: 48% of consumption.
+Offsetting: <15% of total reductions from offsets; direct cuts prioritised.
+
+KEY ACTIONS
+- Procured 66% renewable electricity in 2023 (PPAs + RECs)
+- Launched 3 energy efficiency programmes across manufacturing
+- Internal carbon price: $42/tCO2e
+- Supplier engagement programme: 46% of Tier 1 suppliers surveyed
+CDP Score: B | SBTi Status: Committed
+
+GOVERNANCE
+Board-level oversight. Executive bonus 12% linked to sustainability KPIs. CDP: B.
+
+DISCLAIMER
+Targets subject to annual review and aligned with Paris Agreement.

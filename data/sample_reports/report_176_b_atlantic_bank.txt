@@ -1,0 +1,31 @@
+Atlantic Bank — Climate Progress Report 2024
+Sector: Financial Services | Region: North America
+
+OUR CLIMATE TARGETS
+We have set the following targets, pending SBTi validation:
+- Scope 1 and 2: 42% absolute reduction by 2030 vs 2018
+- Scope 3: 35% absolute reduction by 2030 vs 2018
+- Net-zero emissions by 2050
+
+BASELINE (2018)
+Scope 1: 602,351 tCO2e
+Scope 2 (market-based): 142,190 tCO2e
+Scope 3: 2,295,069 tCO2e
+
+PROGRESS TO DATE
+27% Scope 1+2 reduction achieved. On track for 2030 milestones.
+Renewable electricity: 62% of consumption.
+Offsetting: <12% of total reductions from offsets; direct cuts prioritised.
+
+KEY ACTIONS
+- Procured 67% renewable electricity in 2023 (PPAs + RECs)
+- Launched 4 energy efficiency programmes across manufacturing
+- Internal carbon price: $48/tCO2e
+- Supplier engagement programme: 33% of Tier 1 suppliers surveyed
+CDP Score: B | SBTi Status: Committed
+
+GOVERNANCE
+Board-level oversight. Executive bonus 11% linked to sustainability KPIs. CDP: B.
+
+DISCLAIMER
+Targets subject to annual review and aligned with Paris Agreement.

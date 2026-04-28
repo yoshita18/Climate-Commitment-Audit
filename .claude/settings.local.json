@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python3 -m pip install -q sentence-transformers chromadb pydantic python-dotenv tenacity tqdm rich pytest anthropic)",
+      "Bash(python3 -m pytest tests/test_ingestion.py tests/test_audit.py tests/test_evaluation.py -v)",
+      "Bash(python3 data/sample_reports/generate_reports.py --count 200)",
+      "Bash(python3 -m pip install -q faiss-cpu langchain langchain-core langchain-community langchain-huggingface langchain-groq groq)",
+      "Bash(python3 -m pytest tests/test_llm.py tests/test_faiss.py tests/test_langchain.py tests/test_ingestion.py tests/test_audit.py tests/test_evaluation.py -v)",
+      "Bash(python3 -m pytest tests/ -v --tb=short)",
+      "Bash(python -m pytest tests/test_rag.py -v)",
+      "Bash(python3 -m pytest tests/test_rag.py -v)",
+      "Bash(python3 -m pytest --tb=short -q)",
+      "Bash(python3 -c \"from src.llm import LLMClient, get_llm_client, GroqLLMClient; print\\('OK'\\)\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 main.py --mode generate --count 3)",
+      "Bash(python3 -c \"import tenacity; import groq; import rich; import tqdm; print\\('Core deps OK'\\)\")",
+      "Bash(python3 main.py --mode single --report \"data/sample_reports/report_01_credible_greentech_corp.txt\")",
+      "Bash(python3 main.py --demo)",
+      "Bash(python3 main.py --demo --mode benchmark --reports-dir data/sample_reports --backend faiss)",
+      "Bash(python3 -c \"import streamlit; print\\('streamlit', streamlit.__version__\\)\")",
+      "Bash(pip3 install *)",
+      "Bash(timeout 8 python3 -m streamlit run app.py --server.headless true --server.port 8502)",
+      "Bash(python3 -m streamlit run app.py --server.headless true --server.port 8502)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8502/healthz)",
+      "Bash(kill %1)",
+      "Bash(python3 -m streamlit run app.py --server.headless true --server.port 8503)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\" http://localhost:8503/healthz)"
+    ]
+  }
+}

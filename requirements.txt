@@ -1,0 +1,41 @@
+# ── Core ─────────────────────────────────────────────────────────────────────
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+tenacity>=8.3.0
+tqdm>=4.66.0
+rich>=13.7.0
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.5.0
+
+# ── Document ingestion ────────────────────────────────────────────────────────
+pdfplumber>=0.11.0
+pypdf2>=3.0.0
+
+# ── Embeddings (HuggingFace sentence-transformers — local, no key needed) ─────
+sentence-transformers>=3.0.0
+huggingface_hub>=0.24.0       # free HF Inference API (optional LLM provider)
+
+# ── Vector stores ─────────────────────────────────────────────────────────────
+chromadb>=0.5.0               # original ChromaDB backend
+faiss-cpu>=1.8.0              # FAISS backend (standalone + via LangChain)
+
+# ── LangChain ─────────────────────────────────────────────────────────────────
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0   # FAISS integration, TextLoader, PyPDFLoader
+langchain-huggingface>=0.1.0  # HuggingFaceEmbeddings + HuggingFaceEndpoint
+langchain-groq>=0.2.0         # ChatGroq — FREE LLM provider
+langchain-anthropic>=0.3.0    # ChatAnthropic (optional, paid)
+
+# ── Free LLM providers ────────────────────────────────────────────────────────
+groq>=0.11.0                  # Groq SDK — FREE API (llama-3.x / mixtral)
+#anthropic>=0.40.0            # Anthropic SDK — optional, paid
+
+# ── UI ────────────────────────────────────────────────────────────────────────
+streamlit>=1.35.0             # Web UI — run with: streamlit run app.py
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+pytest>=8.2.0
+pytest-asyncio>=0.23.0
+httpx>=0.27.0

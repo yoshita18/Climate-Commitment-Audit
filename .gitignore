@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/chroma_db/
+data/faiss_db/
+data/lc_faiss_db/
+outputs/
+*.pkl
+*.index
+.DS_Store

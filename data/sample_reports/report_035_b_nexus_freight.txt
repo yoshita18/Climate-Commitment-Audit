@@ -1,0 +1,31 @@
+Nexus Freight — Climate Progress Report 2023
+Sector: Transport & Logistics | Region: European Union
+
+OUR CLIMATE TARGETS
+We have set the following targets, pending SBTi validation:
+- Scope 1 and 2: 38% absolute reduction by 2030 vs 2019
+- Scope 3: 28% absolute reduction by 2030 vs 2019
+- Net-zero emissions by 2050
+
+BASELINE (2019)
+Scope 1: 302,511 tCO2e
+Scope 2 (market-based): 238,910 tCO2e
+Scope 3: 3,353,660 tCO2e
+
+PROGRESS TO DATE
+18% Scope 1+2 reduction achieved. On track for 2030 milestones.
+Renewable electricity: 47% of consumption.
+Offsetting: <12% of total reductions from offsets; direct cuts prioritised.
+
+KEY ACTIONS
+- Procured 61% renewable electricity in 2023 (PPAs + RECs)
+- Launched 5 energy efficiency programmes across manufacturing
+- Internal carbon price: $74/tCO2e
+- Supplier engagement programme: 40% of Tier 1 suppliers surveyed
+CDP Score: B | SBTi Status: Committed
+
+GOVERNANCE
+Board-level oversight. Executive bonus 8% linked to sustainability KPIs. CDP: B.
+
+DISCLAIMER
+Targets subject to annual review and aligned with Paris Agreement.

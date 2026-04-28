@@ -1,0 +1,49 @@
+Midstream Energy Partners — Sustainability Report 2024
+Sector: Energy | Fiscal Year: 2024
+
+SUSTAINABILITY COMMITMENT
+Midstream Energy Partners is committed to reducing our environmental impact while continuing to provide reliable energy to our customers. We recognize the importance of addressing climate change and have established targets to guide our transition.
+
+OUR CLIMATE TARGETS
+- Achieve net-zero Scope 1 and 2 emissions by 2050
+- Reduce methane emissions intensity by 50% from our 2018 baseline by 2030
+- Reduce flaring intensity by 70% from our 2018 baseline by 2028
+- Achieve carbon neutrality for our operated facilities by 2035 (inclusive of high-quality offsets)
+
+2023 PERFORMANCE
+Absolute Scope 1 GHG Emissions: 4.2 MtCO2e (down 8% from 2022)
+Scope 2 Emissions (market-based): 0.6 MtCO2e (down 12% from 2022)
+Methane Intensity: 0.18% of natural gas throughput (down 22% from 2018 baseline of 0.23%)
+Flaring Intensity: Reduced 45% from 2018 baseline
+
+Note: We do not currently report Scope 3 emissions in this document. We are developing a methodology to quantify our Scope 3 footprint and plan to report in 2026.
+
+METHANE MANAGEMENT
+Methane is 80 times more potent than CO2 over 20 years. We take methane management seriously. We conduct quarterly leak detection and repair (LDAR) surveys across 100% of our operated assets using optical gas imaging cameras. In 2023, we repaired 1,847 leak components.
+
+We are a member of the Oil & Gas Methane Partnership 2.0 (OGMP 2.0) and are working towards Gold Standard reporting.
+
+ENERGY EFFICIENCY
+We have invested $180M in compressor upgrades and electrification across our pipeline network since 2019, reducing fuel gas consumption by 18%. Our facilities average an energy intensity of 3.2 GJ/km of pipeline, down from 3.9 GJ/km in 2018.
+
+LOW-CARBON PATHWAYS
+We are exploring opportunities in:
+- Hydrogen blending in existing pipeline infrastructure (pilot launched Q3 2024)
+- Carbon capture and sequestration (feasibility study completed for one facility)
+- Compressed natural gas (CNG) vehicle fleet conversion
+
+We have not set a specific capital allocation for low-carbon investments. We assess each project on its individual merits and return profile.
+
+CARBON OFFSETS
+To achieve our 2035 carbon neutrality goal, we plan to use high-quality carbon offsets for remaining emissions. We have entered into agreements for 1.2 MtCO2e of offsets annually from 2026. Offset projects include reforestation in North America and improved forest management.
+
+SCOPE 3 EMISSIONS
+The combustion of natural gas by our customers represents the largest portion of our lifecycle emissions. We recognize that Scope 3 emissions are material; however, quantifying and setting targets for emissions outside our operational control is complex. We are engaged with industry peers and are participating in the GHG Protocol's Scope 3 working group to develop appropriate accounting standards for midstream companies.
+
+We believe the role of natural gas as a transition fuel is well-established and that continued investment in natural gas infrastructure supports the energy security goals of our customers and communities.
+
+GOVERNANCE
+Our Board Safety and Sustainability Committee meets quarterly. Executive compensation includes a 5% weighting on sustainability metrics. We report to CDP (2023 score: B-).
+
+LOOKING AHEAD
+We believe we are on track to meet our methane and flaring intensity targets. Our 2050 net-zero commitment covers Scopes 1 and 2 only, as science-based guidance for our sector's Scope 3 emissions continues to evolve.

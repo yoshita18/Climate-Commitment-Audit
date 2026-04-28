@@ -1,0 +1,38 @@
+Peak Upstream — Science-Aligned Net-Zero Transition Plan 2022
+Sector: Oil & Gas | Region: Latin America
+
+OUR SCIENCE-BASED CLIMATE TARGETS (SBTi VALIDATED)
+Near-term (2030): Reduce absolute Scope 1 and 2 emissions by 55% versus 2019 baseline.
+Near-term (2030): Reduce absolute Scope 3 emissions by 44% versus 2019 baseline.
+Long-term (2050): Net-zero across Scopes 1, 2, and 3 by 2046.
+Interim (2035):   85% absolute reduction in Scope 1 and 2.
+
+All targets independently validated by SBTi in 2023 and aligned with the 1.5°C pathway
+as defined in IPCC AR6. Targets cover 100% of our operational footprint and all material
+Scope 3 categories (purchased goods, use of sold products, end-of-life treatment).
+
+BASELINE EMISSIONS (2019)
+Scope 1: 382,099 tCO2e
+Scope 2 (market-based): 94,112 tCO2e
+Scope 3 (15 categories): 6,397,087 tCO2e
+Scope 3 share of total: 89%
+
+CURRENT PROGRESS
+Scope 1+2 reduction vs baseline: 24%
+Scope 3 reduction vs baseline: 22%
+Renewable electricity share: 79%
+Third-party assurance: Bureau Veritas (reasonable assurance, Scope 1+2; limited, Scope 3)
+
+KEY DECARBONISATION ACTIONS
+1. Renewable Energy: 99% clean electricity via long-term PPAs; 100% by 2026.
+2. Fleet Electrification: 71% of owned vehicles electric by 2028.
+3. Supply Chain: Requiring all Tier 1 suppliers (80% of spend) to set SBTi targets by 2026.
+4. Carbon Removal: $70M invested in high-quality CDR (DAC + nature-based) by 2030.
+5. Internal Carbon Price: $115/tCO2e applied to all capital decisions >$1M.
+CDP Score: A | SBTi Status: Targets Validated | TCFD: Aligned
+
+GOVERNANCE
+Board Sustainability Committee meets monthly. CEO pay tied 24% to climate metrics. Annual third-party assurance. CDP: A.
+
+DISCLAIMER
+Forward-looking statements are based on IPCC AR6 1.5°C scenarios.
